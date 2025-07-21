@@ -1,6 +1,7 @@
 <script>
     // `layout` can be either "right" or "left"
     // `sticky` and `scrolly` are the snippets passed in (see one of the examples)
+    // <!-- Initial code w/ slight modifications to fit the website theme -->
     let { layout, sticky, scrolly } = $props(); 
 </script>
 
@@ -16,10 +17,10 @@
 
 <style>
     .wrapper {
-        background-color: #f7f5eb;
-        padding: min(100vh, 30rem) 1rem;
+        background-color: white;
+        padding: min(100vh, 10rem) 1rem;
         border-style: solid;
-        border-color: #4096fa;
+        border-color: rgba(0, 0, 0, 0);
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -55,6 +56,7 @@
         align-items: center;
         justify-content: center;
         z-index: 0;
+        box-shadow: 8px 7px 5px 3px black;
     }
 
     .scrolly {

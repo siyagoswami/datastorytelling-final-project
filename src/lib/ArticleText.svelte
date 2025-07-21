@@ -1,3 +1,4 @@
+<!-- Initial code w/ slight modifications to fit the website theme -->
 <script>
     let { children } = $props();
 </script>
@@ -12,11 +13,14 @@
     .article-text {
         margin: 50vh auto;
         width: 50%;
-        background-color: #ff99fc;
-        color: #007052;
-        border: solid #8427c9 3px;
+        background-color: white;
+        color: black;
+        border: rgba(0, 0, 0, 0);
         border-radius: 20px;
         padding: 20px;
-        box-shadow: 16px 16px #8aa6df;
+        font-family: "EB Garamond", serif;
+        font-size: 1.3rem;
+        text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+        line-height: 1.2;
     }
 </style>

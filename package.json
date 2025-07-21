@@ -1,9 +1,9 @@
 {
-  "name": "kwk-scrollytelling-template",
+  "name": "datastorytelling-final-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jasminesamra.github.io/kwk-scrollytelling-template",
+  "homepage": "https://siyagoswami.github.io/datastorytelling-final-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -16,5 +16,9 @@
     "gh-pages": "^6.3.0",
     "svelte": "^5.28.1",
     "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "highcharts": "^12.3.0",
+    "mapbox-gl": "^3.13.0"
   }
 }
