@@ -2,7 +2,7 @@
     import { fly } from 'svelte/transition'; 
     import { onMount } from 'svelte'; 
 
-    const words = ['social', 'vulnerability', 'cannot', 'be', 'separated', 'from', 'race']; 
+    const words = ['social', 'vulnerability', 'is', 'not', 'separate', 'from', 'race']; 
     let wordRefs = []; 
     let visibleWords = Array(words.length).fill(false); 
     let rotations = []; 

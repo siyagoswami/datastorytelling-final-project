@@ -108,7 +108,7 @@
         z-index: 0;
     }
 
-    /* I used ChatGPT with this particular CSS styling to ensure that the transitions were occurring. */
+    /* I used ChatGPT with this .timeline-item styling to ensure that the transitions were occurring. */
     .timeline-item {
         position: relative;
         width: 50%;

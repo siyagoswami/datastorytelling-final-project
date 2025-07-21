@@ -67,9 +67,10 @@ const images = [
                 <!-- Source: https://jerseybee.org/2024/06/24/in-essex-county-new-jerseys-history-of-segregation-persists/ -->
                 The inequality unfortunately does not stop there. According to the New Jersey Department of Health, 
                 Black individuals are also less likely to have health insurance.
-                This is a significant challenge because
-                they are also more vulnerable to environmental factors and stressors like mold, toxins from 
-                sanitary landfills, and air pollutants from waste facilities. This exposure can ultimately lead 
+                This is a significant challenge because they are also more vulnerable to environmental factors and stressors 
+                like mold, toxins from sanitary landfills, and air pollutants from waste facilities. A fourth power plant 
+                was just recently approved in the impoverished Ironbound neighborhood in Newark, despite much opposition 
+                from a community already struggling from high asthma rates. This continued exposure can ultimately lead 
                 to <strong>preventable death.</strong>
                 <br/><br/>
                 Furthermore, predominantly Black low-income communities were shown to have faced 

@@ -24,7 +24,7 @@
         setupObserver(housingRef, "blackHousing");
     });
 
-
+    // All data from the Black Wealth Data Center 
     const SVIOptions = {
         chart: { type: "column" }, 
         title: { text : "Social Vulnerability Index", 
