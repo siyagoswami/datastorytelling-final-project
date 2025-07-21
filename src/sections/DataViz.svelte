@@ -169,7 +169,7 @@
         {#snippet scrolly()}
             <ArticleText>
                 When we look at the Black population in each county, it is significant 
-                that the percentage in Essex County, 36.9%, is <strong>much higher</strong> than that of 
+                that the percentage in Essex County, or 36.9%, is <strong>much higher</strong> than that of 
                 Hunterdon County, or 2.6%. There is a clear connection between social vulnerability and the amount of 
                 Black residents in a county. 
             </ArticleText>
