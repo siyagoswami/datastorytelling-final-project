@@ -22,7 +22,7 @@ const images = [
                 the area's massive inequality and discrimination. 
                 <br/><br/>
                 Essex County is one of the foremost examples of New Jersey's slave history. 
-                From street names to historical structures, there are remnants of the
+                From street names to historical structures, remnants of the
                 atrocities are omnipresent.
                 Bloomfield, a township in the county, was home to Lieutenent Colonel Thomas Cadmus. 
                 Although he is primarily remembered as an officer in the American Revolutionary War, his former residence is a 
@@ -66,7 +66,7 @@ const images = [
              <p style="line-height: 1.2; text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);">
                 <!-- Source: https://jerseybee.org/2024/06/24/in-essex-county-new-jerseys-history-of-segregation-persists/ -->
                 The inequality unfortunately does not stop there. According to the New Jersey Department of Health, 
-                Black individuals are also less likely to have health insurance.
+                Black individuals are less likely to have health insurance.
                 This is a significant challenge because they are also more vulnerable to environmental factors and stressors 
                 like mold, toxins from sanitary landfills, and air pollutants from waste facilities. A fourth power plant 
                 was just recently approved in the impoverished Ironbound neighborhood in Newark, despite much opposition 
